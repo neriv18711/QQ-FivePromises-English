@@ -12,10 +12,10 @@ This is a fan project. It is **not affiliated with or endorsed by** MAGES., Spik
 
 | Japanese | English |
 |---|---|
-| ![Title screen (Japanese)](<img width="1280" height="720" alt="1-title-ja" src="https://github.com/user-attachments/assets/1ca69ca8-6612-457f-9331-bcbc9e9081c4" />) | ![Title screen (English)](<img width="1280" height="720" alt="1-title-en" src="https://github.com/user-attachments/assets/0444ab49-35c5-472f-a25f-9bbc7d1cb862" />) |
-| ![Game mode select (Japanese)](<img width="1280" height="720" alt="2-mode-ja" src="https://github.com/user-attachments/assets/62bff5ee-17af-48ee-8c09-551bd03f3aeb" />) | ![Game mode select (English)](<img width="1280" height="720" alt="2-mode-en" src="https://github.com/user-attachments/assets/34e822bb-bcd1-47f6-823c-a37817ef6243" />) |
-| ![Confession select (Japanese)](<img width="1280" height="720" alt="3-confess-en" src="https://github.com/user-attachments/assets/4eb759f4-3dda-4a7e-a4fd-3c3db37231d2" />) | ![Confession select (English)](<img width="1280" height="720" alt="3-confess-ja" src="https://github.com/user-attachments/assets/c79aa8ca-3e91-4954-900c-accabae5cd84" />) |
-| ![Destination select (Japanese)](<img width="1280" height="720" alt="4-destination-ja" src="https://github.com/user-attachments/assets/cd398dd0-1c4c-4341-93c3-2a6951c09199" />) | ![Destination select (English)](<img width="1280" height="720" alt="4-destination-en" src="https://github.com/user-attachments/assets/7a8d9c71-1eaf-4d8a-856e-8d2c99567095" />) |
+| ![Title screen (Japanese)](images/1-title-ja.jpg) | ![Title screen (English)](images/1-title-en.jpg) |
+| ![Game mode select (Japanese)](images/2-mode-ja.jpg) | ![Game mode select (English)](images/2-mode-en.jpg) |
+| ![Confession select (Japanese)](images/3-confess-ja.jpg) | ![Confession select (English)](images/3-confess-en.jpg) |
+| ![Destination select (Japanese)](images/4-destination-ja.jpg) | ![Destination select (English)](images/4-destination-en.jpg) |
 
 ## How it was translated
 
